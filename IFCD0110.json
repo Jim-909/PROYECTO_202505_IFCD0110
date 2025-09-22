@@ -116,7 +116,7 @@
             "email" : "ortegajimmy275@gmail.com",
             "linked" : "https://www.linkedin.com/in/jimmy-ortega-b8870634b/",
             "github" : "Jim-909",
-            "url" : "https://cv-jimmy.netlify.app",
+            "url" : "https://dayshop.kesug.com/",
             "inicio" : {
                 "html" : 0,
                 "css" : 0,
@@ -124,10 +124,10 @@
                 "WP" :0
             },
                 "fin" : {
-                "html" : 0,
-                "css" : 0,
-                "JS" : 0,
-                "WP" :0
+                "html" : 4,
+                "css" : 4,
+                "JS" : 4,
+                "WP" :2
             }                    
         
     },
